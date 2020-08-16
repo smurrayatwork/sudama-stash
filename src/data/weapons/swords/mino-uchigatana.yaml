@@ -1,0 +1,5 @@
+name: Mino Uchigatana
+type: Weapon
+weapon:
+  type: sword
+  description: "This katana was forged by swordsmiths from the Mino Province. It has a gentle curve, which makes it ideal for thrusting and slashing attacks."

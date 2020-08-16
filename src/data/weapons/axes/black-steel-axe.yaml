@@ -1,0 +1,5 @@
+name: Black Steel Axe
+type: Weapon
+weapon:
+  type: axe
+  description: "A large axe modified for combat use. Its considerable weight makes it a difficult weapon to wield. Originally intended for use in forestry, its design is simple but it packs considerable destructive force."
