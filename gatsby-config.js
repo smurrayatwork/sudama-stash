@@ -10,6 +10,7 @@ module.exports = {
     description: `Sudama's Stash`,
     author: `smurrayatwork`,
   },
+  pathPrefix: "/sudama-stash",
   plugins: [
     {
       resolve: 'gatsby-transformer-yaml',
