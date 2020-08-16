@@ -3,7 +3,6 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
-  console.log(node.internal.type);
   if (node.internal.type === `WeaponYaml`) {
     const slug = createFilePath({ node, getNode, trailingSlash: false })
     createNodeField({

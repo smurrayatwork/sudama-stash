@@ -15,11 +15,16 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master"
   },
   "dependencies": {
+    "@spectrum-css/button": "^3.0.0-beta.3",
+    "@spectrum-css/page": "^2.0.7",
+    "@spectrum-css/table": "^3.0.0-beta.3",
+    "@spectrum-css/vars": "^2.3.0",
     "gatsby": "^2.24.41",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
+    "@adobe/react-spectrum": "^3.1.0",
     "gatsby-plugin-react-helmet": "^3.3.10",
     "gatsby-source-filesystem": "^2.3.24",
     "gatsby-transformer-yaml": "^2.4.10",
