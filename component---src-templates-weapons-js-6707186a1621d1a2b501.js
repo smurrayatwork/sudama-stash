@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"6C0k":function(e,n,a){"use strict";a.r(n),a.d(n,"query",(function(){return o}));var t=a("q1tI"),l=a.n(t);n.default=function(e){console.log(e);var n=e.data;return l.a.createElement(l.a.Fragment,null,l.a.createElement("h2",null,n.weaponYaml.name),l.a.createElement("div",null,n.weaponYaml.weapon.type),l.a.createElement("div",null,n.weaponYaml.weapon.description))};var o="2104208807"}}]);
+//# sourceMappingURL=component---src-templates-weapons-js-6707186a1621d1a2b501.js.map
