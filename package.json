@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "sudama-stash",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
-  "version": "0.1.0",
+  "description": "Sudama's Stash",
+  "version": "0.0.1",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
@@ -15,8 +15,8 @@
   },
   "dependencies": {
     "gatsby": "^2.24.41",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "prettier": "2.0.5"
